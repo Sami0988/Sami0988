@@ -67,10 +67,10 @@
 
 ## 📌 Highlight Projects
 
-- 🎟️ **[Ticket Booking App (Flutter)](https://github.com/Sami0988/ticket-booking-app)**  
+- 🎟️ **[Ticket Booking App (Flutter)](https://github.com/Sami0988/Train-Ticket-mobile-app)**  
   Cross-platform mobile app with Firebase integration.
 
-- 🛍️ **[Shop & Store Management System (MERN)](https://github.com/Sami0988/shop-store-app)**  
+- 🛍️ **[Shop & Store Management System (MERN)](https://github.com/Sami0988/my-pharmacy)**  
   Full-stack system for managing clients, debt, and inventory.
 
 - 🌐 **[Personal Portfolio Website](https://github.com/sami342/portfolio)**  
@@ -81,8 +81,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sami342&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami342&layout=compact&theme=radical" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sami09882&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sami09882&layout=compact&theme=radical" width="300"/>
 </p>
 
 ---
